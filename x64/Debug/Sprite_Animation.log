@@ -1,0 +1,6 @@
+﻿  stb.cpp
+  main.cpp
+  Создание кода...
+  glad.c
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Sprite_Animation.vcxproj -> C:\Users\User\source\repos\Sprite_Animation\x64\Debug\Sprite_Animation.exe
